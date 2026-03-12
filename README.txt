@@ -10,13 +10,13 @@ Run the .exe file to start the app
 Navigate to the "Encrypt" page
 After encrypting your file(s), you can find them in the folder under the "Encryptions"
 
-### Security Note
-*This repository contains the compiled demonstration build of the Gasoline app.* 
-*As this was a proof-of-concept for the competition, it includes hardcoded configurations to 
+Security Note
+This repository contains the compiled demonstration build of the Gasoline app.*
+As this was a proof-of-concept for the competition, it includes hardcoded configurations to 
 make sure that the executable could be ran easily for the judges. 
 It is **not** intended for secure file encryption today. 
 In a real production, secrets and keys would be securely managed via environment variables and 
-dynamic key generation.* 
+dynamic key generation.*
 Gasoline team image in "About Us" has been replaced with a placeholder for my team members' privacy.
 
 Instructions on how to use the encrypter can be found inside of the app's encryption page
