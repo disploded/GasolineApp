@@ -1,4 +1,4 @@
-This is my first fully created project for the purpose of 123Tech's national competition in 2022. 123Tech was a technology company in New Zealand that was ran by IT Professionals NZ & sponsored by the Ministry of Education.
+This is my first fully created project for the purpose of 123Tech's national competition in 2022. 123Tech is a technology company in New Zealand that was ran by IT Professionals NZ & sponsored by the Ministry of Education.
 
 This app was created by Gasoline, a team of year 10 students from Lytton High.
 This app is made specifically for 1920x1080 monitors and Windows 10 computers.
